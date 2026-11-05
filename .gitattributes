@@ -1,0 +1,7 @@
+linux/PinDebug/pin_debug_tool_v1.11_for_linux.tar filter=lfs diff=lfs merge=lfs -text
+linux/rk_ddrbin_tool_V1.01.7z filter=lfs diff=lfs merge=lfs -text
+linux/rk_sign_tool_v1.42_linux.zip filter=lfs diff=lfs merge=lfs -text
+windows/RKPCBATool_v1.2.1_20251226.zip filter=lfs diff=lfs merge=lfs -text
+windows/Rockchip_USB_SQ_Tool/Rockchip_USB_SQ_Tool_V1.5.exe filter=lfs diff=lfs merge=lfs -text
+windows/pin_debug_tool_v1.18_20250322_win.zip filter=lfs diff=lfs merge=lfs -text
+windows/rk_ddrBin_tool_V1.07.2.zip filter=lfs diff=lfs merge=lfs -text
